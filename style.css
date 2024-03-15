@@ -8,6 +8,7 @@
      font-family: 'Poppins', sans-serif;
     }
 
+ /* secao cabecalho*/
    .cabecalho{
         background-color: #c5c1c1;
         color: white;
@@ -31,7 +32,9 @@
           width: 25%;
      }
 
-     .sobre_nos{
+      /* secao animes*/
+
+.sobre-os-animes{
           background-image: linear-gradient(#3B0050,#3b00501f);
           color:#FFFFFF;
           display: flex;
@@ -40,10 +43,10 @@
           border-bottom: 2px solid #ffff00b2;
       }
       
-      .sobre_nos-div-conteudo{
+      .sobre-os-animes-conteudo{
           width: 650px;
       }
-      .sobre_nos-titulo{
+      .sobre-os-animes-titulo{
           padding: 45px 0;
           text-align: center;
           font-size: 45px;
@@ -56,12 +59,12 @@
       .sobre_nos-imagem{
           width: 25%;
       }
-      /* secao lojas*/
-.lojas{
+      /* secao personagens*/
+.personagens{
      background-color: #a9a9a9;
  }
  
- .lojas-titulo{
+ .personagens-titulo{
  color: #3B0050;
  text-align: center;
  padding: 50px;
@@ -77,10 +80,10 @@
     
  }
  
- .lojas-estado-img{
+ .personagens-animes-imagem{
      width: 20px;
  }
- .lojas-estado-nome{
+ .personagem-nome{
      font-weight: 100;
      text-decoration: underline;
      color: #FFFFFF;
