@@ -88,7 +88,7 @@
      text-decoration: underline;
      color: #FFFFFF;
  }
- .lojas-estado-nome:hover{
+ .personagem-nome:hover{
      font-weight: 100;
      text-decoration: underline;
      color: orange;
@@ -97,7 +97,7 @@
      width: 30px;
      padding: 5px 0 10px 0;
  }
- .lojas-estado-icone:hover{
+ .personagens-animes-icone:hover{
      width: 35px;
      padding: 5px 0;
  }
