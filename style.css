@@ -86,12 +86,12 @@
  .personagem-nome{
      font-weight: 100;
      text-decoration: underline;
-     color: #FFFFFF;
+     color: #9e2e2e;
  }
  .personagem-nome:hover{
      font-weight: 100;
      text-decoration: underline;
-     color: orange;
+     color: rgb(0, 0, 0);
  }
  .personagens-animes-icone{
      width: 30px;
