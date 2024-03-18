@@ -36,11 +36,11 @@
 
 .sobre-os-animes{
           background-image: linear-gradient(#3B0050,#3b00501f);
-          color:#FFFFFF;
+          color:#a30000;
           display: flex;
           justify-content: center;
           padding: 50px;
-          border-bottom: 2px solid #ffff00b2;
+          border-bottom: 2px solid #802f00cc;
       }
       
       .sobre-os-animes-conteudo{
@@ -71,11 +71,11 @@
  font-size: 45px;
  }
  
- .lojas-todosestados-div{
+ .todos-personagens{
      display: grid;
      grid-template-columns: 33% 33% 33%;
  }
- .loja-estado{
+ .peronagens-animes{
      text-align: center;
     
  }
