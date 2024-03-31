@@ -35,6 +35,7 @@
       /* secao animes*/
 
 .sobre-os-animes{
+        background-color: #666368;
           background-image: linear-gradient(#3B0050,#3b00501f);
           color:#a30000;
           display: flex;
