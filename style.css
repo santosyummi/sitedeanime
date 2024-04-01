@@ -36,11 +36,11 @@
 
 .sobre-os-animes{
           background-image: linear-gradient(#3B0050,#3b00501f);
-          color:#a30000;
+          color:#525057;
           display: flex;
           justify-content: center;
           padding: 50px;
-          border-bottom: 2px solid #802f00cc;
+          border-bottom: 2px solid #423049cc;
       }
       
       .sobre-os-animes-conteudo{
