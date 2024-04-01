@@ -82,8 +82,8 @@
  }
  
  .personagens-animes-imagem{ 
-    height: 183;
-    width: 155px;
+    height:183;
+    width:155px;
  }
  .personagem-nome{
      font-weight: 100;
@@ -104,5 +104,17 @@
      padding: 5px 0;
  }
  .rodape{
-    background-color: ;
+    background-color: rgb(22, 20, 20) ;
+    text-align: center;
+    padding: 50px;
+    border-top: #40174e ;
+ }
+ .rodape-titulo{
+    font-size: 27px;
+    font-weight: bold;
+    color: #67008a;
+ }
+ .rodape-imagem{
+    width: 100px;
+    filter: invert();
  }
