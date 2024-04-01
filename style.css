@@ -82,7 +82,7 @@
  }
  
  .personagens-animes-imagem{ 
-    height:183;
+    height: 188px;
     width:155px;
  }
  .personagem-nome{
@@ -115,6 +115,6 @@
     color: #67008a;
  }
  .rodape-imagem{
-    width: 100px;
+    width: 300px;
     filter: invert();
  }
