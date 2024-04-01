@@ -82,7 +82,8 @@
  }
  
  .personagens-animes-imagem{
-     width: 155px;
+    height: 250px; 
+    width: 155px;
  }
  .personagem-nome{
      font-weight: 100;
@@ -101,4 +102,7 @@
  .personagens-animes-icone:hover{
      width: 35px;
      padding: 5px 0;
+ }
+ .rodape{
+
  }
