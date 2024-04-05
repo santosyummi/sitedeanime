@@ -11,7 +11,7 @@
  /* secao cabecalho*/
    .cabecalho{
         background-color: #c5c1c1;
-        color: white;
+        color: rgb(0, 0, 0);
         display: flex;
         justify-content: space-around;
         align-items: center;
